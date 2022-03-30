@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduardo.lima\\Desktop\\UberAPI\\UberAPI\\UberAPI.csproj": {}
+    "C:\\Users\\eduardo.lima\\Desktop\\UberAPII\\UberAPI\\UberAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduardo.lima\\Desktop\\UberAPI\\UberAPI\\UberAPI.csproj": {
+    "C:\\Users\\eduardo.lima\\Desktop\\UberAPII\\UberAPI\\UberAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\UberAPI\\UberAPI\\UberAPI.csproj",
+        "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\UberAPII\\UberAPI\\UberAPI.csproj",
         "projectName": "UberAPI",
-        "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\UberAPI\\UberAPI\\UberAPI.csproj",
+        "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\UberAPII\\UberAPI\\UberAPI.csproj",
         "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\UberAPI\\UberAPI\\obj\\",
+        "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\UberAPII\\UberAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduardo.lima\\AppData\\Roaming\\NuGet\\NuGet.Config",

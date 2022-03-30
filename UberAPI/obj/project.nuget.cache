@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RlDq5jt4ePzYAlu6QRTwhbJ2AbMP5wVs49LBxivZpMn7Ub0BfHXl+32s36oqqctm80bxzphPTIi0y5lQkoVnBw==",
+  "dgSpecHash": "0m3A5ZgDQS6toNxRNlsNr+I3jbxui/jo8VfT8T3B9/BMZIlzxca4xccgb2VUWseEBQlsg4fw+cJbYr0IT+0alw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduardo.lima\\Desktop\\UberAPI\\UberAPI\\UberAPI.csproj",
+  "projectFilePath": "C:\\Users\\eduardo.lima\\Desktop\\UberAPII\\UberAPI\\UberAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduardo.lima\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.15\\microsoft.data.sqlite.core.5.0.15.nupkg.sha512",
     "C:\\Users\\eduardo.lima\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
